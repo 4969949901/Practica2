@@ -1,0 +1,5 @@
+# ninja log v5
+4	339	6996890969851171	build.ninja	d7236e066a0b6a0f
+5	676	6996517309742262	CMakeFiles/Tarea2.dir/main.cpp.obj	ab8a720635b4499b
+34	708	6996515785609352	CMakeFiles/Tarea2.dir/MArchivos.cpp.obj	4494c99dbe154feb
+677	938	6996517312279446	Tarea2.exe	5dd890e97be9aafc
